@@ -52,4 +52,4 @@ with tab1:
                         st.error("❌ Something went wrong! Please try again 🔄")
 
                 else:
-                    st.info("Fill all details")
+                    st.error("Please fill all details")
