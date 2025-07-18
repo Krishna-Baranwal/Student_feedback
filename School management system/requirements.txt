@@ -1,0 +1,15 @@
+# Backend
+fastapi==0.110.0
+uvicorn==0.29.0
+
+# Frontend & UI
+streamlit==1.34.0
+plotly==5.22.0
+pandas==2.2.2
+requests==2.31.0
+
+# Database
+mysql-connector-python==8.3.0
+
+# Extra (optional)
+python-multipart==0.0.9
